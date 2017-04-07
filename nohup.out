@@ -1,6 +1,0 @@
-WARNING:tensorflow:Found more than one graph event per run, or there was a metagraph containing a graph_def, as well as one or more graph events.  Overwriting the graph with the newest event.
-WARNING:tensorflow:Found more than one metagraph event per run. Overwriting the metagraph with the newest event.
-WARNING:tensorflow:Found more than one graph event per run, or there was a metagraph containing a graph_def, as well as one or more graph events.  Overwriting the graph with the newest event.
-WARNING:tensorflow:Found more than one metagraph event per run. Overwriting the metagraph with the newest event.
-WARNING:tensorflow:Found more than one graph event per run, or there was a metagraph containing a graph_def, as well as one or more graph events.  Overwriting the graph with the newest event.
-WARNING:tensorflow:Found more than one metagraph event per run. Overwriting the metagraph with the newest event.
