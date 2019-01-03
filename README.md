@@ -16,8 +16,9 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
 #### Pattern in final (4000) epoch
 ![tsne_4000](images/tsne_4000.png)
 
+# Results of Train/Test cylces
 
-# Fully Connected Neural Network
+## Fully Connected Neural Network
 
 <div>
 <table border="1" class="dataframe">
@@ -87,7 +88,7 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
 
 ![png](images/output_4_5.png)
 
-# Variational Autoencoder
+## Variational Autoencoder
 ### latent variables used for prediction
 <div>
 <table border="1" class="dataframe">
@@ -157,7 +158,7 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
 
 ![png](images/output_6_5.png)
 
-# Variational Autoencoder
+## Variational Autoencoder
 ### Anomaly labels treated as part of actual data 
 Network learns to regenerated labels treating it as missing data during testing.
 
@@ -229,7 +230,7 @@ Network learns to regenerated labels treating it as missing data during testing.
 
 ![png](images/output_8_5.png)
 
-# LSTM Seq2Seq
+## LSTM Seq2Seq
 Softmax layer is used to convert output sequence to Normal/Anomaly prediction.
 
 <div>
