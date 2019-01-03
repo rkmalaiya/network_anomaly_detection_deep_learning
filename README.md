@@ -2,21 +2,7 @@
 
 This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. Donghwoon Kwon  at Texas A&M University-Commerce. The research outcome will be published in the proceeding of IEEE ICNC 2018 (http://www.conf-icnc.org/2018/), with the title of “An Empirical Evaluation of Deep Learning for Network Anomaly Detection”.
 
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -84,22 +70,7 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
 
 ![png](images/output_4_5.png)
 
-
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -167,22 +138,7 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
 
 ![png](images/output_6_5.png)
 
-
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -251,21 +207,7 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
 ![png](images/output_8_5.png)
 
 
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -333,21 +275,7 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
 
 ![png](images/output_10_5.png)
 
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -397,7 +325,6 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
   </tbody>
 </table>
 </div>
-
 
 
 ![png](images/output_13_1.png)
@@ -468,5 +395,5 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
 </div>
 
 
-
 ![png](images/output_15_1.png)
+
