@@ -1,8 +1,21 @@
 # Network Anomaly detection on datasets NSL-KDD, Kyoto University and Mawii labs
 
-This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. Donghwoon Kwon  at Texas A&M University-Commerce. The research outcome will be published in the proceeding of IEEE ICNC 2018 (http://www.conf-icnc.org/2018/), with the title of “An Empirical Evaluation of Deep Learning for Network Anomaly Detection”.
+This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. Donghwoon Kwon  at Texas A&M University-Commerce. The research outcome will be published in the proceeding of [IEEE ICNC 2018](http://www.conf-icnc.org/2018/), with the title of “An Empirical Evaluation of Deep Learning for Network Anomaly Detection”.
 
 * *Below results are for NSL-KDD Dataset only. Master branch contains code for NSL-KDD dataset. There are separate dev branches for Kyoto University and Mawii labs. The networks implemented are same for all datasets.*
+
+# Exploratory Data Analysis
+### Andrew Curves (High dimensional data plots)
+
+![andrews_curve](images/andrews_curve.png)
+
+### T-SNE (Data dimensionality Reduction)
+#### Pattern evolving during epochs
+![tsne](images/tsne.png)
+
+#### Pattern in final (4000) epoch
+![tsne_4000](images/tsne_4000.png)
+
 
 # Fully Connected Neural Network
 
