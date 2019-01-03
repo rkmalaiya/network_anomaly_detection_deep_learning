@@ -16,7 +16,7 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
 #### Pattern in final (4000) epoch
 ![tsne_4000](images/tsne_4000.png)
 
-# Results of Train/Test cylces
+# Results of Train/Test cycles
 
 ## Fully Connected Neural Network
 
