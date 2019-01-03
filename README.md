@@ -2,7 +2,7 @@
 
 This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. Donghwoon Kwon  at Texas A&M University-Commerce. The research outcome will be published in the proceeding of IEEE ICNC 2018 (http://www.conf-icnc.org/2018/), with the title of “An Empirical Evaluation of Deep Learning for Network Anomaly Detection”.
 
-## Fully Connected Neural Network
+# Fully Connected Neural Network
 
 <div>
 <table border="1" class="dataframe">
@@ -72,7 +72,7 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
 
 ![png](images/output_4_5.png)
 
-## Variational Autoencoder
+# Variational Autoencoder
 ### latent variables used for prediction
 <div>
 <table border="1" class="dataframe">
@@ -142,7 +142,7 @@ This project has been conducted under the supervision of Dr. Jinoh Kim  and Dr. 
 
 ![png](images/output_6_5.png)
 
-
+# Variational Autoencoder
 ### Anomaly labels treated as part of actual data 
 Network learns to regenerated labels treating it as missing data during testing.
 
@@ -285,7 +285,7 @@ Softmax layer is used to convert output sequence to Normal/Anomaly prediction.
 
 ![png](images/output_10_5.png)
 
-## Conclusion
+# Conclusion
 
 <div>
 <table border="1" class="dataframe">
